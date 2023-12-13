@@ -30,7 +30,7 @@
           "answer": "<title>"
         },
         {
-          "question": "What is the purpose of the <body> tag in HTML?",
+          "question": "What is the purpose of the &lt;body> tag in HTML?",
           "options": [
             "It defines the document's head section.",
             "It contains all the content such as text, images, and links.",
@@ -50,7 +50,7 @@
           "answer": "<img>"
         },
         {
-          "question": "What attribute is used to provide the path of an image in the <img> tag?",
+          "question": "What attribute is used to provide the path of an image in the &lt;img> tag?",
           "options": ["link", "src", "href", "url"],
           "answer": "src"
         },
@@ -60,7 +60,7 @@
           "answer": "<ul>"
         },
         {
-          "question": "What does the <br> tag do?",
+          "question": "What does the &lt;br> tag do?",
           "options": [
             "It breaks the text into two sections.",
             "It creates a bold text.",
