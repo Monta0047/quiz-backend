@@ -22,15 +22,15 @@
             "&lt;body>&lt;head>&lt;/head>&lt;html>&lt;/html>&lt;/body>",
             "&lt;html>&lt;body>&lt;/body>&lt;head>&lt;/head>&lt;/html>"
           ],
-          "answer": "&lt;html>&lt;head>&lt;/head>&lt;body>&lt;/body>&lt;/html>"
+          "answer": "<html><head></head><body></body></html>"
         },
         {
           "question": "Which HTML element is used to define the title of a document?",
           "options": ["&lt;head>", "&lt;title>", "&lt;header>", "&lt;top>"],
-          "answer": "&lt;title>"
+          "answer": "<title>"
         },
         {
-          "question": "What is the purpose of the &lt;body> tag in HTML?",
+          "question": "What is the purpose of the <body> tag in HTML?",
           "options": [
             "It defines the document's head section.",
             "It contains all the content such as text, images, and links.",
@@ -42,25 +42,25 @@
         {
           "question": "Which HTML tag is used to create a hyperlink?",
           "options": ["&lt;hyperlink>", "&lt;link>", "&lt;a>", "&lt;href>"],
-          "answer": "&lt;a>"
+          "answer": "<a>"
         },
         {
           "question": "Which tag is used to display images in HTML?",
           "options": ["&lt;img>", "&lt;image>", "&lt;src>", "&lt;pic>"],
-          "answer": "&lt;img>"
+          "answer": "<img>"
         },
         {
-          "question": "What attribute is used to provide the path of an image in the &lt;img> tag?",
+          "question": "What attribute is used to provide the path of an image in the <img> tag?",
           "options": ["link", "src", "href", "url"],
           "answer": "src"
         },
         {
           "question": "Which HTML tag is used to create an unordered list?",
           "options": ["&lt;ul>", "&lt;ol>", "&lt;list>", "&lt;li>"],
-          "answer": "&lt;ul>"
+          "answer": "<ul>"
         },
         {
-          "question": "What does the &lt;br> tag do?",
+          "question": "What does the <br> tag do?",
           "options": [
             "It breaks the text into two sections.",
             "It creates a bold text.",
@@ -189,7 +189,7 @@
         {
           "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
           "options": [
-            "if (i &lt;> 5)",
+            "if (i <> 5)",
             "if i =! 5 then",
             "if (i != 5)",
             "if i not = 5"
@@ -199,12 +199,12 @@
         {
           "question": "How does a FOR loop start?",
           "options": [
-            "for (i = 0; i &lt;= 5)",
+            "for (i = 0; i <= 5)",
             "for i = 1 to 5",
-            "for (i &lt;= 5; i++)",
-            "for (i = 0; i &lt;= 5; i++)"
+            "for (i <= 5; i++)",
+            "for (i = 0; i <= 5; i++)"
           ],
-          "answer": "for (i = 0; i &lt;= 5; i++)"
+          "answer": "for (i = 0; i <= 5; i++)"
         },
         {
           "question": "How can you add a comment in a JavaScript?",
@@ -275,7 +275,7 @@
             "&lt;description>",
             "&lt;img alt='description'>"
           ],
-          "answer": "&lt;img alt='description'>"
+          "answer": "<img alt='description'>"
         },
         {
           "question": "What does ARIA stand for in web development?",
@@ -305,7 +305,7 @@
         {
           "question": "Which of the following elements is inherently focusable, meaning it can receive focus without a 'tabindex' attribute?",
           "options": ["&lt;div>", "&lt;span>", "&lt;a href='...'>", "&lt;p>"],
-          "answer": "&lt;a href='...'>"
+          "answer": "<a href='...'>"
         },
         {
           "question": "What is the purpose of the 'lang' attribute in an HTML page?",
