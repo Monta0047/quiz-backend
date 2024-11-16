@@ -11,7 +11,7 @@
       "id": "1",
       "content": "Impressive! Though it seems the drag feature could be improved. But overall it looks incredible. You've nailed the design and the responsiveness at various breakpoints works really well.",
       "createdAt": "1 month ago",
-      "score": 35,
+      "score": 34,
       "user": {
         "image": {
           "png": "https://picsum.photos/id/1/201",
@@ -19,14 +19,14 @@
         },
         "username": "amyrobson"
       },
-      "userVote": 1,
+      "userVote": 0,
       "replies": []
     },
     {
       "id": "2",
       "content": "Woah, your project looks awesome! How long have you been coding for? I'm still new, but think I want to dive into React as well soon. Perhaps you can give me an insight on where I can learn React? Thanks!",
       "createdAt": "2 weeks ago",
-      "score": 8,
+      "score": 10,
       "user": {
         "image": {
           "png": "https://picsum.photos/id/2/202",
@@ -34,7 +34,7 @@
         },
         "username": "maxblagun"
       },
-      "userVote": -1,
+      "userVote": 1,
       "replies": [
         {
           "id": "3",
@@ -45,8 +45,8 @@
           "replyingTo": "maxblagun",
           "user": {
             "image": {
-              "png": "../../assets/images/avatars/image-ramsesmiron.png",
-              "webp": "../../assets/images/avatars/image-ramsesmiron.webp"
+              "png": "https://picsum.photos/id/3/200",
+              "webp": "https://picsum.photos/id/3/200"
             },
             "username": "ramsesmiron"
           }
@@ -60,8 +60,8 @@
           "userVote": 0,
           "user": {
             "image": {
-              "png": "../../assets/images/avatars/image-juliusomo.png",
-              "webp": "../../assets/images/avatars/image-juliusomo.webp"
+              "png": "https://picsum.photos/id/17/200",
+              "webp": "https://picsum.photos/id/17/200"
             },
             "username": "Ali Ben Romdhane"
           }
@@ -72,7 +72,7 @@
       "id": "69",
       "content": "Hola world from the other Siiiiide!",
       "createdAt": "Just now",
-      "score": 7,
+      "score": 15,
       "user": {
         "image": {
           "png": "https://picsum.photos/id/69/2069",
@@ -80,46 +80,31 @@
         },
         "username": "Monta"
       },
-      "userVote": 0,
+      "userVote": 1,
       "replies": []
     },
     {
-      "id": "3",
-      "content": "If you're still new, I'd recommend focusing on the fundamentals of HTML, CSS, and JS before considering React. It's very tempting to jump ahead but lay a solid foundation first.",
-      "createdAt": "1 week ago",
-      "score": 5,
-      "userVote": 1,
-      "replyingTo": "maxblagun",
-      "user": {
-        "image": {
-          "png": "https://picsum.photos/id/3/200",
-          "webp": "https://picsum.photos/id/3/200"
-        },
-        "username": "ramsesmiron"
-      }
-    },
-    {
-      "id": "4",
-      "content": "I couldn't agree more with this. Everything moves so fast and it always seems like everyone knows the newest library/framework. But the fundamentals are what stay constant.",
-      "createdAt": "3 days ago",
-      "score": 1,
-      "replyingTo": "ramsesmiron",
-      "userVote": -1,
-      "user": {
-        "image": {
-          "png": "https://picsum.photos/id/17/200",
-          "webp": "https://picsum.photos/id/17/200"
-        },
-        "username": "Ali Ben Romdhane"
-      }
-    },
-    {
-      "id": "d06baff9-0b28-4809-9b38-3716dfaaf728",
+      "id": "54d1f2b0-a6d6-4c27-95e1-748f0cb5d420",
       "userVote": 1,
       "score": 1,
       "createdAt": "Just now",
       "replies": [],
-      "content": "السلام عليكم",
+      "content": "Wee Aree The chaaampiooons!",
+      "user": {
+        "username": "Ali Ben Romdhane",
+        "image": {
+          "png": "https://picsum.photos/id/17/200",
+          "webp": "https://picsum.photos/id/17/200"
+        }
+      }
+    },
+    {
+      "id": "b1d28c5e-2cef-47c2-b4ec-2164146dcfc7",
+      "userVote": -1,
+      "score": -1,
+      "createdAt": "Just now",
+      "replies": [],
+      "content": "Nannouuus",
       "user": {
         "username": "Ali Ben Romdhane",
         "image": {
